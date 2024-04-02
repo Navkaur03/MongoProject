@@ -1,1 +1,3 @@
-﻿
+﻿parcel id,parcelarea,zoning,landuse,ownership
+345,345 sqft,commerical,joint family,public
+345,456 sqft,r-3,456 sqft,public
